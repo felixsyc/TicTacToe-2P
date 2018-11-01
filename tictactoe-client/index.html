@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Tic Tac Toe - Player 2</title>
+	<style>
+		div{
+			margin-top:15px;
+		}
+	</style>
+  </head>
+  <body style="text-align:center;">
+    <h1>Tic Tac Toe (Client)</h1>
+	<div>Player 1(X)  vs  Player 2(O)</div>
+	<div>You are <b>Player 2(O)</b></div>
+    <div id="tictactoe" style="font-size:36px;"></div>
+	
+	<div id="gameStatus">Waiting for Player 1(X) to make a move...</div>
+	<div id="inputField">Player 2(O): <input id="playerMove" style="width:50px" value="1"/> <button id="btn-submit">SUBMIT</button></div>
+	
+    <script>
+      // You can also require other files to run in this process
+	  require('./tictactoe.js')
+	  require('./websocket-client.js')
+    </script>
+  </body>
+</html>
