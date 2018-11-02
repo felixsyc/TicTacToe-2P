@@ -3,9 +3,9 @@
 To run this repository you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
 
 ### Installation & Run Application
-Always runs the server before client
-Communication link through websocket that's initialize by the Server
-Client will look for the websocket and connect to the Server 
+Always runs the server before client.<br />
+Communication link through websocket that's initialize by the Server.<br />
+Client will look for the websocket and connect to the Server.<br />
 
 From your command line:
 ```bash
