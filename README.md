@@ -1,3 +1,5 @@
+React framework and websocket
+
 ### Prerequisite (IMPORTANT)
 
 To run this repository you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
