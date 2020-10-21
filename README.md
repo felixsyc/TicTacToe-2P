@@ -1,4 +1,5 @@
-React framework and websocket
+### Description
+For learning Electron framework and websocket API communication between server <-> client
 
 ### Prerequisite (IMPORTANT)
 
